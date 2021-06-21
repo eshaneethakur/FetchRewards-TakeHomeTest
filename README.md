@@ -35,3 +35,13 @@ Modelling and analyzing specific dataset to gain insights
 
 
 ### Task 4:
+Email/Slack message to the business/product leader- (the initial greetings are not included in this message)
+Hello, 
+I've been doing some preliminary analysis of our receipts data and its correlation with our user data and brands data. I would like to share a few pointers I came across while working on this task.
+- The first one is the data quality issue. While trying to understand and tie back user data and brand data to the receipts data we have collected, I came across a few data quality issues like duplicate userIds, missing barcode information. I feel one of the priority tasks would be handling these issues as it will help us increase our accuracy of results while performing analysis of our KPIs. I would like to dive deeper into the data quality issue to understand how the data flows and how do we capture this data. It would go a long way in determining a solution for handling these data quality issues.
+- Additionally, we do have a preliminary data model developed based on the data and my understanding of the business context. However, I would love to know more about any specific key metrics we are looking at, it would help me gain an overall business perpective and I can try to incorporate these requirements and optimize the data modeling based on this information.
+- I would also like to highlight one more thing, which I feel needs to be given some thought and attention. We are growing as a company, and with that our data influx would also grow exponentially. In order to manage the performance and scalibility risks, I feel we should consider moving to cloud platforms. I would be conducting a meeting to explain more about how the cloud platform approach may be better than the current approach some time this week.
+
+Please feel free to drop me a message on slack or schedule a meeting if you would like to further discuss these points. I would love to hop on a quick call to discuss each point in detail.
+
+Thank you.
